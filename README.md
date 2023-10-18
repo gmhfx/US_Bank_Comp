@@ -15,7 +15,7 @@ PE, EPS, divdend yield, and market cap.  Sourced from https://finance.yahoo.com/
 
 ## Chart Description
 
-Bubble chart with EPS on x-axis, PE ratio on reversed y-axis (low PE/high EPS -> upper right of chart), size of markers indicates relavtive market cap, and color of markers shows dividend yield with a colorscale.
+Bubble chart with EPS on x-axis, PE ratio on reversed y-axis (low PE/high EPS -> upper right of chart), size of markers indicates relative market cap, and color of markers shows dividend yield with a colorscale.
 
 https://gmhfx.github.io/US_Bank_Comp/
 
